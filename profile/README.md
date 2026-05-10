@@ -30,7 +30,7 @@ Además de programar o producir el material solicitado, también es importante q
 
 ## ¿Cómo se organiza el trabajo?
 
-- Cada alumnx tendrá su propio repositorio.
+- Cada alumnx tendrá su propio repositorio. Para ello, deberá tener usuario en Github y los docentes le crearemos el repositorio con los permisos correspondientes.
 - El nombre del repositorio será el **nombre y apellido** de la persona.
 - Cada alumnx deberá subir allí sus **trabajos prácticos**, avances y versión final de entrega. En caso de tener que recuperar, también se deberá subir el trabajo al repositorio con el nombre correspondiente.
 
