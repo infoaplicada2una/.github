@@ -56,12 +56,12 @@ Se espera que en cada repositorio estén, como mínimo:
 apellido-nombre/
 │
 ├── README.md
-├── apellido_entrega_tp1
-├── apellido_recuperatorio_tp1 # en caso de recuperar
-├── apellido_entrega_tp2
-├── apellido_recuperatorio_tp2 # en caso de recuperar
-├── apellido_entrega_tp3
-├── apellido_recuperatorio_tp3 # en caso de recuperar
+├── apellido_nombre_entrega_tp1
+├── apellido_nombre_recuperatorio_tp1 # en caso de recuperar
+├── apellido_nombre_entrega_tp2
+├── apellido_nombre_recuperatorio_tp2 # en caso de recuperar
+├── apellido_nombre_entrega_tp3
+├── apellido_nombre_recuperatorio_tp3 # en caso de recuperar
 
 
 
